@@ -14,6 +14,7 @@ I use models the way a physician uses anatomy: not to predict the future, but to
 | [metaculus-forecasting-skill](https://github.com/AfacanIlyada/metaculus-forecasting-skill) | Is forecasting skill visible in how people write? Person-level study across six Metaculus categories, with sealed analysis artifacts. |
 | [metaculus-forecasting](https://github.com/AfacanIlyada/metaculus-forecasting) | Linguistic features do not predict comment accuracy in online forecasting (N = 11,130); author track record does. |
 | [DS4SDGs-Project](https://github.com/AfacanIlyada/DS4SDGs-Project) | Public energy R&D spending and research output across 34 countries and 9 technologies (panel Granger causality, placebo tests). |
+| [wvs-turkey-institutional-trust](https://github.com/AfacanIlyada/wvs-turkey-institutional-trust) | Trust in the army, police and courts in Turkey across six World Values Survey waves, 1990–2018 (with Kağan Korkmaz; abstract submitted to SDL 2026). |
 
 **In progress (not public yet):** emerging trend discovery on Turkish X (M.Sc. thesis) · influencer–brand sponsorship networks on Instagram · inflation expectations on X.
 
